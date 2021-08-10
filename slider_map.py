@@ -1,5 +1,5 @@
 # Required: Plotly. To install one, simply type in "pip install plotly==4.7.1" in a terminal.
-# The end result should be three different images/graphs in three different tabs.
+# The end result should be three different interactive graphics in three different tabs.
 
 Cell 1:
 import numpy as np
